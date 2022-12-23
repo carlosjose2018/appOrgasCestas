@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "orgsCestas",
+    "slug": "orgsCestas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
