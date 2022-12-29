@@ -1,5 +1,5 @@
 import {SafeAreaView, StatusBar} from 'react-native';
-import { Cestas } from './src/screens/cestas';
+import { Cestas } from './src/screens/Cestas';
 
 //loading 
 import { Loanding } from "../orgsCestas/src/components/Loanding";
